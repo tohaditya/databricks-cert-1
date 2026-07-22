@@ -9,4 +9,6 @@ This repository consolidates practical data engineering principles, core Apache 
 I would recommend this course --> https://www.udemy.com/course/databricks-certified-data-engineer-professional/
 and these mock tests --> https://www.udemy.com/course/practice-exams-databricks-data-engineer-professional-k/
 
+
+additional sources:
 youtube --> https://youtu.be/0Hd5vYqin7w?si=Re-sL3r527b57gIt
