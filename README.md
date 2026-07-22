@@ -1,8 +1,6 @@
 # Databricks Certified Data Engineer Associate – Exam Prep & Revision Notes
 
 ![Databricks Certified](https://img.shields.io/badge/Databricks-Certified_Data_Engineer_Associate-blue?style=for-the-badge&logo=databricks)
-![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Passed-success?style=for-the-badge)
 
 Welcome to the comprehensive revision repository for the **Databricks Certified Data Engineer Associate** exam! 
 
